@@ -1,14 +1,15 @@
 ---
 title: 【Obsidian × Cursor】メモ管理の沼から抜け出し、AIで自分専用のエコシステムを構築する方法
-private: false
 tags:
-  - Obsidian
-  - Cursor
+  - cursor
   - Gemini
-updated_at: '2026-02-20T05:31:49+09:00'
+  - Obsidian
+private: false
+updated_at: '2026-02-20T05:54:58+09:00'
 id: eb52103d3de5b85cde00
 organization_url_name: null
 slide: false
+ignorePublish: false
 ---
 
 # 【Obsidian × Cursor】メモ管理の沼から抜け出し、AIで自分専用のエコシステムを構築する方法
