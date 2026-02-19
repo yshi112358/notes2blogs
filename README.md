@@ -55,6 +55,16 @@ npm run new:article -- --slug 記事のスラッグ --title タイトル
 npx zenn new:article --slug 記事のスラッグ --title タイトル
 ```
 
+**重要：ファイル名（スラッグ）の制約**
+
+ファイル名（拡張子を除く）は記事のslugとなります。slugは半角英数字（a-z0-9）、ハイフン（-）、アンダースコア（_）の12〜50文字の組み合わせにする必要があります。
+
+例：
+- ✅ `obsidian-cursor-setup.md` (23文字)
+- ✅ `my_first_article.md` (15文字)
+- ❌ `お試し.md` (日本語は不可)
+- ❌ `test.md` (11文字、12文字未満)
+
 ## 使い方
 
 1. `articles/` ディレクトリにZenn形式の記事を作成・編集します
