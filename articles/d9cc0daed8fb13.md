@@ -2,7 +2,7 @@
 title: "【Obsidian × Cursor】メモ管理の沼から抜け出し、AIで自分専用のエコシステムを構築する方法"
 emoji: "😊"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: [Obsidian, Cursor]
+topics: [Obsidian, Cursor, Gemini]
 published: true
 ---
 

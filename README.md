@@ -71,6 +71,11 @@ npx zenn new:article --slug 記事のスラッグ --title タイトル
 npm run preview
 ```
 
+## 詳細ドキュメント
+
+- [GitHub Actions Workflow 解説](./WORKFLOW_EXPLANATION.md) - workflowの動作を詳しく解説
+- [CLIでのスラッグ作成について](./CLI_SLUG_GUIDE.md) - CLIを使わずに記事を作成する方法
+
 ## 参考
 
 この環境は以下の記事を参考に構築しました：
